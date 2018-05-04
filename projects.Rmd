@@ -1,0 +1,12 @@
+---
+title: "Projects"
+---
+
+These are a couple of things i find interesting
+
+## [Data Visualization in R]
+
+
+## [Building a dashboard using microsoft excel]
+- Interactive plots of things
+- I can code!
